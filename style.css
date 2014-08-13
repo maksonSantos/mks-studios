@@ -2,5 +2,5 @@ body, html{background: #FEFEB4; max-width: 100vmax}
 
 .header-container{text-align: center; padding: 1%}
 
-.nav-container{background: #301B0C; margin: 0 auto; border-radius: 0; border: 0; overflow: hidden}
-.ul-container{margin-bottom: 0px; border: 0; max-height: 100px}
+.nav-container{background: #301B0C; border-radius: 0; border: 0;}
+.ul-container{margin-bottom: -10px ; padding-bottom: -10px; border: 0; max-height: 100px}
