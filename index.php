@@ -27,8 +27,44 @@
             </ul>
         </div>
     </nav><!-- Fim do menu -->
-    <div class="container">
-        <p>Aqui fica o conteudo</p>
-    </div>
+    <div class="container content">
+        <div class="row cat-thumb-container">
+			<div class="col-sm-5 col-md-4">
+				<div class="thumbnail">
+					<img data-src="holder.js/300x300" src="imag/img-01.png" alt="Themas Hot Site" class="img-respondive">
+					<div class="caption cat-thumb">
+						<h3>Thumbnail label</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mattis non dolor vel luctus. Pellentesque ullamcorper pulvinar auctor. Nullam volutpat a orci pellentesque dictum.</p>
+						<p><a href="#" class="btn btn-primary cat-button" role="button">Visualizar Tema</a></p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-5 col-md-4">
+				<div class="thumbnail">
+					<img data-src="holder.js/300x300" src="imag/img-02.png" alt="Themas Hot Site">
+					<div class="caption cat-thumb">
+						<h3>Thumbnail label</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mattis non dolor vel luctus. Pellentesque ullamcorper pulvinar auctor. Nullam volutpat a orci pellentesque dictum.</p>
+						<p><a href="#" class="btn btn-primary cat-button" role="button">Visualizar Tema</a></p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-5 col-md-4">
+				<div class="thumbnail">
+					<img data-src="holder.js/300x300" src="imag/img-03.png" alt="Themas Hot Site">
+					<div class="caption cat-thumb">
+						<h3>Thumbnail label</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mattis non dolor vel luctus. Pellentesque ullamcorper pulvinar auctor. Nullam volutpat a orci pellentesque dictum.</p>
+						<p><a href="#" class="btn btn-primary cat-button" role="button">Visualizar Tema</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div> <!-  Fim do content  ->
+	
+	<footer>
+		<p>&copy; 2014 - MKS studios</p>
+	</footer>
+	
 </body>
 </html>

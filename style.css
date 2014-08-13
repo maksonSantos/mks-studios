@@ -1,8 +1,19 @@
-body, html{background: #FEFEB4; max-width: 100vmax}
+body, html{background: #FFFFE0; max-width: 100vmax}
 
+/*  header style*/
 .header-container{text-align: center; padding: 1%}
 
 .nav-container{background: #301B0C; padding-bottom: -10px; border-radius: 0; border: 0;}
 .ul-container{padding-bottom: -10px; border: 0; max-height: 100px; font-variant: small-caps; font-size: 1.1em; font-weight: bold}
 ul.ul-container li a{color: #FFAA00}
 ul.ul-container li a:hover{color: #301B0C}
+
+/*  content stle  */
+.cat-thumb-container{margin: 5vh;}
+.cat-thumb{overflow: hidden; clear: both; box-shadow: 0 0 5px #000}
+
+.cat-button{background: #301B0C; color: #FFAA00; border: 0; float: right}
+.cat-button:hover{background: #FFAA00; color: #301B0C; opacity: 0.5 }
+
+/*  footer style  */
+footer {background-color: #301B0C; color: #FFAA00; padding:40px 0 0px; overflow: hidden; clear: both; font:1.1em; text-align: center;}
