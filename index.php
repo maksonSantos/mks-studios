@@ -31,7 +31,7 @@
         <div class="row cat-thumb-container">
 			<div class="col-sm-5 col-md-4">
 				<div class="thumbnail">
-					<img data-src="holder.js/300x300" src="imag/img-01.png" alt="Themas Hot Site" class="img-respondive">
+					<img data-src="holder.js/300x300" src="imag/img01.jpg" alt="Themas Hot Site" class="img-respondive">
 					<div class="caption cat-thumb">
 						<h3>Thumbnail label</h3>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mattis non dolor vel luctus. Pellentesque ullamcorper pulvinar auctor. Nullam volutpat a orci pellentesque dictum.</p>
@@ -41,7 +41,7 @@
 			</div>
 			<div class="col-sm-5 col-md-4">
 				<div class="thumbnail">
-					<img data-src="holder.js/300x300" src="imag/img-02.png" alt="Themas Hot Site">
+					<img data-src="holder.js/300x300" src="imag/img02.jpg" alt="Themas Hot Site">
 					<div class="caption cat-thumb">
 						<h3>Thumbnail label</h3>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mattis non dolor vel luctus. Pellentesque ullamcorper pulvinar auctor. Nullam volutpat a orci pellentesque dictum.</p>
@@ -51,7 +51,7 @@
 			</div>
 			<div class="col-sm-5 col-md-4">
 				<div class="thumbnail">
-					<img data-src="holder.js/300x300" src="imag/img-03.png" alt="Themas Hot Site">
+					<img data-src="holder.js/300x300" src="imag/img03.jpg" alt="Themas Hot Site">
 					<div class="caption cat-thumb">
 						<h3>Thumbnail label</h3>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mattis non dolor vel luctus. Pellentesque ullamcorper pulvinar auctor. Nullam volutpat a orci pellentesque dictum.</p>
