@@ -5,6 +5,7 @@
     <title>Makson Santos</title>
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="shortcut icon" href="imag/icon_logo.png">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
     <script src="js/bootstrap.min.js"></script>
