@@ -17,12 +17,13 @@
         </div>
         <div class="col-md-6 header-container ">Linha 2</div>
     </header>    
-    <nav class="navbar navbar-default nav-container" role="navigation">
+    <nav class="nav-container" role="navigation">
         <div class="container">
             <ul class="nav nav-tabs ul-container" role="tablist">
-                <li class="active"><a href="#">Home</a></li>
-                <li><a href="#">Profile</a></li>
-                <li><a href="#">Messages</a></li>
+                <li class="active fixed"><a href="#">Home</a></li>
+                <li><a href="#">Portefólio</a></li>
+                <li><a href="#">Temas</a></li>
+                <li><a href="#">Contato</a></li>
             </ul>
         </div>
     </nav><!-- Fim do menu -->

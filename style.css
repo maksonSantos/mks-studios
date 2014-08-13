@@ -2,5 +2,7 @@ body, html{background: #FEFEB4; max-width: 100vmax}
 
 .header-container{text-align: center; padding: 1%}
 
-.nav-container{background: #301B0C; border-radius: 0; border: 0;}
-.ul-container{margin-bottom: -10px ; padding-bottom: -10px; border: 0; max-height: 100px}
+.nav-container{background: #301B0C; padding-bottom: -10px; border-radius: 0; border: 0;}
+.ul-container{padding-bottom: -10px; border: 0; max-height: 100px; font-variant: small-caps; font-size: 1.1em; font-weight: bold}
+ul.ul-container li a{color: #FFAA00}
+ul.ul-container li a:hover{color: #301B0C}
